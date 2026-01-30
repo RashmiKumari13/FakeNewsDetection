@@ -4,5 +4,5 @@ scikit-learn
 nltk
 flask
 joblib
-clean_text
+clean_text_fast
 streamlit
